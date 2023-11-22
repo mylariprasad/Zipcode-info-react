@@ -9,7 +9,6 @@ ZipInfo is your go-to destination for discovering detailed information about any
 - Search for location details using a zip code.
 - Detailed information about the country, state, and place name.
 - Clear and visually appealing user interface.
-- Responsive design for a seamless experience on various devices.
 - Loading spinner for visual feedback during data fetching.
 
 ## Getting Started
@@ -26,10 +25,6 @@ No installation is required. ZipInfo is a web-based application that you can acc
 2. Click the "Submit" button.
 3. View detailed location information below.
 
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
 
 ## Technologies Used
 
