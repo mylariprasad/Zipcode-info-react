@@ -1,6 +1,6 @@
 # ZipInfo
 
-##Live Link
+## Live Link
 
 https://mylariprasad.github.io/Zipcode-info-react/
 
