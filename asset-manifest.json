@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Zipcode-info-react/static/css/main.9983c1ca.css",
+    "main.js": "/Zipcode-info-react/static/js/main.7cdd9b36.js",
+    "static/js/787.1bce4941.chunk.js": "/Zipcode-info-react/static/js/787.1bce4941.chunk.js",
+    "static/media/Home2.jpg": "/Zipcode-info-react/static/media/Home2.60b66b7ce0e18b4a41b4.jpg",
+    "static/media/Home1.jpg": "/Zipcode-info-react/static/media/Home1.8ce51567f48f876263ee.jpg",
+    "static/media/loading.gif": "/Zipcode-info-react/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "static/media/logo.svg": "/Zipcode-info-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Zipcode-info-react/index.html",
+    "main.9983c1ca.css.map": "/Zipcode-info-react/static/css/main.9983c1ca.css.map",
+    "main.7cdd9b36.js.map": "/Zipcode-info-react/static/js/main.7cdd9b36.js.map",
+    "787.1bce4941.chunk.js.map": "/Zipcode-info-react/static/js/787.1bce4941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9983c1ca.css",
+    "static/js/main.7cdd9b36.js"
+  ]
+}
