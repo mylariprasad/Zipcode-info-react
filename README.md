@@ -1,5 +1,9 @@
 # ZipInfo
 
+##Live Link
+
+https://mylariprasad.github.io/Zipcode-info-react/
+
 ## Overview
 
 ZipInfo is your go-to destination for discovering detailed information about any location based on its zip code. Whether you're planning a trip, relocating, or just curious, ZipInfo makes it easy to explore the world around you.
