@@ -1,0 +1,107 @@
+.Parent-container{
+  background-color: #fff;
+}
+.container {
+  margin: 0; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  width: 100vw;
+  background-image: url('../Images/Home1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.home{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.home .image{
+  flex: 1 1 40rem;
+}
+
+.home .image img{
+  width: 100%;
+}
+
+.home .content{
+  flex: 1 1 40rem;
+}
+
+.home .content span{
+  font-size: 1.5rem;
+}
+
+.home .content h3{
+  font-size: 5rem;
+  color: black;
+}
+
+form {
+  padding: 2rem;
+  justify-content: center;
+  align-items: center;
+  width: 31vw;
+  margin: auto;
+  background-color: transparent;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+label {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+button {
+  background-color: #007bff;
+  margin-right: 3rem;
+  color: #fff;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+@media (max-width: 600px) {
+  form {
+    padding: 15px;
+  }
+  
+  label {
+    font-size: 1rem;
+  }
+
+  input {
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+
+  button {
+    padding: 12px;
+    font-size: 1rem;
+  }
+}
